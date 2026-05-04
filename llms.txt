@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Heta Men Omry |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/heta-men-omry/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> دعيني أذوب في نار هذا الغرام
+> بين يديك أنسى كل الكلام
+> شفاهك تروي عطش السنين
+> دعنا نعيش الليلة كالعاشقين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
