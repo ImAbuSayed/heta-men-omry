@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> دعيني أذوب في نار هذا الغرام
+> بين يديك أنسى كل الكلام
+> شفاهك تروي عطش السنين
+> دعنا نعيش الليلة كالعاشقين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
