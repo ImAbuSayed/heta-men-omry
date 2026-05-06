@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/heta-men-omry/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Heta Men Omry](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Heta Men Omry](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
