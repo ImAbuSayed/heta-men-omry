@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heta Men Omry
+
+This log tracks the cryptographic history and versioning for the song **Heta Men Omry** (heta-men-omry).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:49:29.061292 | `v1` | `4e61df1be605a28bc0225548183d3983b2a22e12e0b2f8135aef1dce78b5f709` | `c5adce73106eee28a9f43dbd9e4fb2fdd51e1ebd4ba7bb68852d82a4c3f5ad4f` | `2026-05-08_heta-men-omry-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
